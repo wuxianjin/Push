@@ -1,0 +1,1 @@
+2014-09-17_15:17:49	is_static:2,to_page:26	jumptype:jigsaw_bg language:en	拼图管理页（英文）	1	FAIL	/push_screenshot/2014-09-17_15:17:49.png

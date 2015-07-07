@@ -1,0 +1,2 @@
+2014-09-16_18:15:15	"is_static":2,"to_page":1	None	跳转到魔图首页	1	FAIL	 
+2014-09-16_18:15:35	"is_static":2,"to_page":2	None	跳转到拼图选图界面	1	PASS	/push_screenshot/2014-09-16_18:15:35.png
